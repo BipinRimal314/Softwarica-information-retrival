@@ -22,4 +22,4 @@ python3 manage.py runserver
 
 cd search_engine
 python3 manage.py runserver
-Go to /cluster
+Go to http://127.0.0.1:8000//cluster
